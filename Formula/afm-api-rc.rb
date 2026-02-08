@@ -1,9 +1,9 @@
 class AfmApiRc < Formula
   desc "OpenAI-compatible local server for Apple Foundation Model (release candidate)"
   homepage "https://github.com/tankibaj/apple-foundation-model-api"
-  url "https://github.com/tankibaj/apple-foundation-model-api/releases/download/v0.0.0-rc.feature-restructure-swiftpm-layout.c982285/afm-api-macos-arm64.tar.gz"
-  version "0.0.0-rc.feature-restructure-swiftpm-layout.c982285"
-  sha256 "c09d86ac24d1264fc99b3afc66ca1cc4f16dc28c5e166cda542df7794a383edb"
+  url "https://github.com/tankibaj/apple-foundation-model-api/releases/download/v0.0.0-rc.feature-restructure-swiftpm-layout.r8.9462a41/afm-api-macos-arm64.tar.gz"
+  version "0.0.0-rc.feature-restructure-swiftpm-layout.r8.9462a41"
+  sha256 "461bd9157e05710f6a8bc99e6c16f4f3593465381119fa357051db3dc4ebcaa2"
   license "MIT"
 
   depends_on :macos
